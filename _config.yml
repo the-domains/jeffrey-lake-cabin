@@ -1,4 +1,3 @@
-layout_spectrum: 0.09544019936583936
 typography_spectrum: 0.7460009921342134
 color:
   brandStrength: 0.1707556287292391
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.09544019936583936
 name: Jeffrey Lake Cottage V4.0
+title: Jeffrey Lake Cottage V4.0
