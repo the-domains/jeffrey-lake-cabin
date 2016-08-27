@@ -4,7 +4,7 @@
         <description><![CDATA[Jeffrey Lake Cottage V4.0]]></description>
         <link>http://jeffreylake.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 17:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 17:05:28 GMT</lastBuildDate>
         <atom:link href="http://jeffreylake.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,13 +60,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cda63cf-83f2-4fab-83b2-8ff258cc5d79.jpg">]]></description>
             <link>http://jeffreylake.ca/8598f986-610d-45ee-9e95-d26bae0249e0/index.html</link>
             <guid isPermaLink="false">8598f986-610d-45ee-9e95-d26bae0249e0</guid>
-            <pubDate>Wed, 24 Aug 2016 00:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdcdbd3f-42ee-4c6a-8435-2287e12351df.jpg">]]></description>
-            <link>http://jeffreylake.ca/2864116b-ae19-4d2b-be62-a22a1edd3904/index.html</link>
-            <guid isPermaLink="false">2864116b-ae19-4d2b-be62-a22a1edd3904</guid>
             <pubDate>Wed, 24 Aug 2016 00:58:22 GMT</pubDate>
         </item>
     </channel>
